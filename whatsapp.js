@@ -1,3 +1,2 @@
-const whatsapp = (prefix, pushname) => {
-    return `*Olá ${pushname}* 👋️
-*Aqui estão os comandos do WhatsApp:*
+const whatsapp = "Long Face!"
+const checkUp ="He didn't mean to speak out loud. But your frustration was obvious"
