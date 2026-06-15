@@ -1,0 +1,4 @@
+$ git push git@github.com:duriaux/Proj1.git master
+The authenticity of host 'github.com (4.228.31.150)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names.
