@@ -1,1 +1,1 @@
-body{background: teal;}
+body{background: teal; display: flex;justify-content: center;align-items: center;}
